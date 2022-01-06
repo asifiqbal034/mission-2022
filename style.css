@@ -1,0 +1,286 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.color-1{
+    color: orange;
+}
+.nevy-color{
+    color: #000033;
+}
+.hero{
+    display: flex;
+}
+.half-width{
+   width: 50%;
+   padding-left: 5%;
+   padding: 8%;
+}
+.half-width img{
+   width: 100%;
+   margin-top: -25px;
+   margin-left: -20px;
+   
+   
+}
+.explore-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: seashell;
+    
+    
+}
+.scroll{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.scroll1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+/* .header3{
+    border: 3px solid tomato;
+    margin-right: 700px;
+    padding-top: 45px;
+    padding-bottom: -100px;
+    background-color: tomato;
+    display: flex;
+    border-radius: 5px;
+    
+      */
+
+
+.header_x{
+    font-family: 'DM Serif Display', serif;
+    border-left: 5px solid tomato;
+    border-image:  linear-gradient(180deg,rgb(201, 138, 115));
+    text-indent: 10px;
+    border-radius: 5px;
+} 
+.focus{
+    margin-top: -10%;
+}
+h1.my-mission{
+    text-align: center;
+    margin-top: -50px;
+}
+
+
+.header_two{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.mission-img{
+    width:120px;
+}
+.vission-img{
+    width: 100px;
+}
+.goal-img{
+    width: 100px;
+}
+.my-mission .header_two{
+    display: flex;
+    margin-top: 50px;
+}
+.mission{
+    margin: 10px;
+    border-radius: 30px;
+    padding: 5%;
+    background-color: rgb(237, 245, 246);
+    width: 40%;
+    height: 350px;
+}
+.mission p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.vission{
+    margin: 10px;
+    border-radius: 30px;
+    padding: 5%;
+    background-color: rgb(255, 238, 238);
+    width: 40%;
+    height: 350px;
+}
+.vission p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.goal{
+    margin: 10px;
+    border-radius: 30px;
+    padding: 5%;
+    background-color: rgb(255, 244, 214);
+    width: 40%;
+    height: 350px;
+}
+.goal p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#m1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#v1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#g1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.mission p{
+    font-size: 20px;
+    text-align: justify;
+}
+.vission p{
+    font-size: 20px;
+    text-align: justify;
+}
+.goal p{
+    font-size: 20px;
+    text-align: left;
+}
+
+/* 2nd part done */
+
+.shape img{
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 105px;
+}
+.wev-dep{
+    display: flex;
+}
+.webelop{
+    margin-top: 140px;
+    margin-left: 50px;
+
+}
+.webelop h1{
+    margin-bottom: 20px;
+}
+.webelop p{
+    margin-bottom: 30px;
+    margin-right: 110px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+/* 3rd part end */
+.global_community{
+    display: flex;
+}
+
+
+
+
+.shape_one{
+    margin-top: 90px;
+    margin-right: 110px;
+}
+.shape_one img{
+    width: 400px;
+}
+.global{
+    margin-left: 105px;
+    margin-top: 90px;
+}
+.global h1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.global p{
+    margin-bottom: 30px;
+    text-align: justify;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+/* end 4th part */
+.omicron_virus{
+    display: flex;
+}
+.omicron img{
+    width: 500px;
+    height: 450px;
+}
+.omicron{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.omi-details{
+    margin-bottom: 80px;
+}
+
+.omi-details h1{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+.omi-details h2{
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+.omi-details p{
+    margin-bottom: 20px;
+    margin-right: 110px;
+    margin-left: 80px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.omi-details a{
+    font-size: 20px;
+    margin-bottom: 80px;
+    margin-right: 110px;
+    margin-left: 80px;
+
+}
+
+
+footer{
+    background-color: black;
+    height:110px;
+}
+
+.footer_information{
+    text-align: center;
+
+}
+.footer_information h1{
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+.footer_information p{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 60px;
+
+}
+.red-color{
+    color: #A52A2A;
+}
